@@ -1,0 +1,48 @@
+.first-div {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.first-div h2 {
+    font-size: 50px;
+    color: rgb(101, 62, 25);
+}
+
+.left-div {
+    margin-right: 50px;
+}
+
+.right-div {
+    margin-left: 50px;
+}
+
+.second-div {
+    text-align: center;
+}
+
+.second-div h2 {
+    font-size: 50px;
+    color: rgb(101, 62, 25);
+}
+
+.footprint {
+    display: flex;
+    width: 50%;
+    margin: 50px auto;
+}
+
+.foot-first {
+    width: 50%;
+}
+
+.foot-second {
+    width: 50%;
+    text-align: center;
+}
+
+.foot-second h2 {
+    font-size: 50px;
+    color: rgb(101, 62, 25);
+}
